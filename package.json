@@ -1,9 +1,10 @@
 {
-  "name": "react-autocomplete",
+  "name": "react-autocomplete-tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.10.1",
+    "react-autocomplete": "^1.8.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
   },
